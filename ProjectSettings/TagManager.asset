@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interact
+  - PlayerOption
+  - Out
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Survivor
+  - Water
+  - UI
+  - Option 1
+  - Option 2
+  - Monster
+  - Generator
+  - Cage
+  - Exit Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

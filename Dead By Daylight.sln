@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7a60fba1-09e1-0a26-5002-d443bfe1149f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Editor", "ToonyColorsPro.Editor.csproj", "{5e6047ce-aed3-be85-7472-d3716616f3ca}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI.csproj", "{a153fc53-9958-e041-d708-7cefd3c6eafb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{cdbce021-da4f-f52b-24fb-4b8534789fcf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online", "Online.csproj", "{1716a1a1-7263-d015-98cb-5bd8653c9e83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game.csproj", "{f3a07a9c-3cf3-dfe3-311c-cee99bc2a466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToonyColorsPro.Runtime", "ToonyColorsPro.Runtime.csproj", "{869cda6b-c7db-13b8-d948-fb50e592351c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{66e27c3b-50da-3537-5a02-40fa8f41ae03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy", "Tayx.Graphy.csproj", "{6cae796f-122a-2085-2634-c82e4059bd12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy.Editor", "Tayx.Graphy.Editor.csproj", "{56354e25-2572-08d6-2483-295bad3cb329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joystick", "Joystick.csproj", "{42c059a3-48e8-8b33-a0e1-36acb61925e7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{92e923c8-6c6e-620f-d127-37b8344cbbbd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7a60fba1-09e1-0a26-5002-d443bfe1149f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7a60fba1-09e1-0a26-5002-d443bfe1149f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5e6047ce-aed3-be85-7472-d3716616f3ca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5e6047ce-aed3-be85-7472-d3716616f3ca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a153fc53-9958-e041-d708-7cefd3c6eafb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a153fc53-9958-e041-d708-7cefd3c6eafb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cdbce021-da4f-f52b-24fb-4b8534789fcf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cdbce021-da4f-f52b-24fb-4b8534789fcf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1716a1a1-7263-d015-98cb-5bd8653c9e83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1716a1a1-7263-d015-98cb-5bd8653c9e83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f3a07a9c-3cf3-dfe3-311c-cee99bc2a466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f3a07a9c-3cf3-dfe3-311c-cee99bc2a466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869cda6b-c7db-13b8-d948-fb50e592351c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869cda6b-c7db-13b8-d948-fb50e592351c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66e27c3b-50da-3537-5a02-40fa8f41ae03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66e27c3b-50da-3537-5a02-40fa8f41ae03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6cae796f-122a-2085-2634-c82e4059bd12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6cae796f-122a-2085-2634-c82e4059bd12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56354e25-2572-08d6-2483-295bad3cb329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56354e25-2572-08d6-2483-295bad3cb329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42c059a3-48e8-8b33-a0e1-36acb61925e7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42c059a3-48e8-8b33-a0e1-36acb61925e7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92e923c8-6c6e-620f-d127-37b8344cbbbd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92e923c8-6c6e-620f-d127-37b8344cbbbd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
